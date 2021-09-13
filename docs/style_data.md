@@ -37,7 +37,7 @@ organização** que publica o conjunto:
 
 * `sigla_pais` e `sigla_uf` são sempre 2 letras minúsculas;
 * `organizacao` é o nome ou sigla (de preferência) da organização que
-  publicou os dados orginais (ex: `ibge`, `tse`, `inep`).
+  publicou os dados originais (ex: `ibge`, `tse`, `inep`).
 * `descricao` é uma breve descrição do conjunto de dados, que pode ser
 
 Por exemplo, o conjunto de dados do PIB do IBGE tem como `dataset_id`: `br_ibge_pib`
